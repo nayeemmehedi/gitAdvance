@@ -1,9 +1,11 @@
+import Google from "./Google";
 
 
 function App() {
   return (
     <div className="App">
-          hello     
+          hello  
+          <Google></Google>   
     </div>
   );
 }
